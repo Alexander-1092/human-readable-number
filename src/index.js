@@ -52,6 +52,3 @@ const toReadable = num => {
 	}
 }
 
-console.log(
-toReadable(9999)
-)
